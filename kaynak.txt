@@ -1,0 +1,4 @@
+https://www.geeksforgeeks.org/sudoku-backtracking-7/
+https://www.geeksforgeeks.org/multithreading-in-java/
+https://www.youtube.com/watch?v=eQk5AWcTS8w
+https://stackoverflow.com/questions/877096/how-can-i-pass-a-parameter-to-a-java-thread
